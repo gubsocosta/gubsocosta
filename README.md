@@ -1,31 +1,37 @@
 # Gabriel Costa
 
 ## Oi, tudo bom? 👋
-Bem vindo ao meu perfil!
+Seja bem-vindo(a) ao meu GitHub!
 
-Sou uma pessoa que se empolga ao resolver problemas com tecnologias.
+Aqui você encontrará uma variedade de projetos que desenvolvi durante minha trajetória como programador(a).
+Meu objetivo é compartilhar meu conhecimento e contribuir para a comunidade de desenvolvimento de software.
 
-<br/> :collision: &nbsp; Buscando colaborar com projetos backend, envolvendo comunicação entre sistemas, monitoramento e microsserviços
-<br/> :blush: &nbsp; Por ter maior domínio no backend, posso te ajudar em várias soluções como integrações com serviços, elaboração de APIs, comunicação com bancos de dados e mais.
-<br/> :computer: &nbsp; Minhas skills :
-<br/>
+Entre os projetos, você encontrará desde pequenos scripts até aplicações mais complexas.
+Utilizo diversas linguagens de programação, como php, javascript, kotlin entre outras.
+
+Fique à vontade para explorar os projetos e deixar sua opinião ou sugestão.
+
+Muito obrigado por visitar meu GitHub!
+
+### :computer: &nbsp; Minhas skills :
+
 |Skill        | Nível de Experiência  |
 |:------------|:----------------------|
-|PHP          | 🔴🔴🟠🟠🟡🟡🟢🟢      |
+|PHP          | 🔴🔴🟠🟠🟡🟡🟢        |
 |JS/TS        | 🔴🔴🟠🟠🟡🟡          |
 |kotlin       | 🔴🔴🟠                |
-|SQL          | 🔴🔴🟠🟠🟡🟡🟢        |
-|Laravel      | 🔴🔴🟠🟠🟡🟡🟢🟢      |
-|Node         | 🔴🔴🟠🟠🟡            |
+|SQL          | 🔴🔴🟠🟠🟡🟡🟢🟢      |
+|NoSQL        | 🔴🔴🟠🟠🟡            |
+|Laravel      | 🔴🔴🟠🟠🟡🟡🟢        |
+|Node         | 🔴🔴🟠🟠🟡🟡🟢        |
 |SpringBoot   | 🔴🔴                  |
-|GraphQL      | 🔴🔴                  |
+|GraphQL      | 🔴🔴🟠🟠              |
+|GIT          | 🔴🔴🟠🟠🟡🟡🟢🟢      |
 |Docker       | 🔴🔴🟠🟠🟡🟡          |
 |Kubernetes   | 🔴                    |
-|GIT          | 🔴🔴🟠🟠🟡🟡🟢🟢      |
-|GCP          | 🔴🔴                  |
-|AWS          | 🔴🔴                  |
+|Cloud        | 🔴🔴🟠                |
 
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, danças urbanas (**Yes, I'm dancer**) e jogos retrô (TopGear, Street Fighter, MegaMan e por aí vai)
-<br/> :email: &nbsp; Vamos bater um papo. Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GabrielCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gubsocosta/)](https://www.linkedin.com/in/gubsocosta/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-gubsocosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gubsocosta@gmail.com)](mailto:gubsocosta@gmail.com)
+
+Vamos bater um papo. Entre em contato comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-GabrielCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gubsocosta/)](https://www.linkedin.com/in/gubsocosta/)[![Gmail Badge](https://img.shields.io/badge/-gubsocosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gubsocosta@gmail.com)](mailto:gubsocosta@gmail.com)
