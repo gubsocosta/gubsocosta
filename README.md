@@ -6,7 +6,7 @@
 <p align="center">Thank you very much for visiting me!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gubsocosta&theme=radical&mode=weekly" />
+<img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gubsocosta&theme=radical&mode=weekly" />
 </div>
  
 ## My Skills
