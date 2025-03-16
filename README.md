@@ -1,19 +1,26 @@
-<p align="center"><strong>Welcome to my GitHub profile!</strong></p>
+<p align="center"><strong>Welcome to my GitHub profile! 🚀</strong></p>
+<p align="center">
+A place where I share my journey, experiments, and contributions to the software development community.
+</p>
 
-Here, you'll find a diverse collection of projects I've worked on throughout my career as a developer.
-My mission is to share knowledge and actively contribute to the software development community.
-
-From simple scripts to sophisticated applications, my repositories showcase a wide range of solutions using various programming languages, including PHP, TypeScript, .NET C#, and more.
-
-Feel free to explore, provide feedback, or share suggestions — your input is always welcome!
-
-<p align="center">Thank you very much for visiting me!</p>&nbsp;
-
-<div align="center" style="margin-bottom:100px">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gubsocosta&mode=weekly&card_height=100" alt="GitHub Streak" /></a>
-</div>
+## 👋 About Me
+<p align="justify">
+Here, you'll find a diverse collection of projects I've worked on throughout my career. My mission is to share knowledge, build robust solutions, and continuously learn while contributing to the tech community.
+</p>
+<p align="justify">
+Feel free to explore, fork, suggest improvements, or just drop by to say hello — your feedback is always welcome!
+</p>
+<p></p>
+From simple automations to sophisticated applications, my repositories cover a range of solutions utilizing multiple programming languages and technologies, including PHP, TypeScript, .NET C#, and more.
+</p>
+<p align="center">✨ Thank you for visiting! ✨</p>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=gubsocosta&mode=weekly&card_height=100" alt="GitHub Streak" />
+    </a>
+</p>
  
-## My Skills
+## 🛠️ My Skills
 
 ### Languages
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -57,7 +64,7 @@ Feel free to explore, provide feedback, or share suggestions — your input is a
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
-## Studying in this moment:
+## 📚 Currently Learning
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
@@ -66,7 +73,7 @@ Feel free to explore, provide feedback, or share suggestions — your input is a
 
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
-## Workstation Tools:
+## 🖥️ Workstation & Tools
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
@@ -82,8 +89,15 @@ Feel free to explore, provide feedback, or share suggestions — your input is a
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 
-## Contacts:
+## 📬 Let's Connect!
 <div>
-<a href="mailto:gubsocosta@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gubsocosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://discordapp.com/channels/@me/gubsocosta#6826/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="mailto:gubsocosta@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/gubsocosta/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://discordapp.com/channels/@me/gubsocosta#6826/" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+</div>
