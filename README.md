@@ -95,9 +95,6 @@ From simple automations to sophisticated applications, my repositories cover a r
     <a href="mailto:gubsocosta@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/gubsocosta/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
     <a href="https://discordapp.com/channels/@me/gubsocosta#6826/" target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
